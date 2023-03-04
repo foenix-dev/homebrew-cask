@@ -4,7 +4,7 @@ cask "calypsi-68k" do
 
   url "https://github.com/hth313/Calypsi-tool-chains/releases/download/#{version}/calypsi-68k-#{version}.pkg"
   name "calypsi-68k"
-  desc "Calypsi 68k is a C and assembly language cross compiler tool chains for M68000."
+  desc "Calypsi is a C and assembly language cross compiler tool chains for M68000."
   homepage "https://www.calypsi.cc/"
 
   pkg "calypsi-68k-#{version}.pkg", allow_untrusted: true
