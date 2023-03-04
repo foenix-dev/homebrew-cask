@@ -6,7 +6,6 @@ cask "calypsi-68k" do
   name "calypsi-68k"
   desc "Calypsi 68k is a C and assembly language cross compiler tool chains for M68000."
   homepage "https://www.calypsi.cc/"
-  comment "calypsi-68k is a commercial product, that uses git for distribution"
 
   pkg "calypsi-68k-#{version}.pkg", allow_untrusted: true
   uninstall script: {
