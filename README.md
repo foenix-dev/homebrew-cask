@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install foenix-dev/cask/<formula>`
+`brew install --cask foenix-dev/cask/<formula>`
 
-Or `brew tap foenix-dev/cask` and then `brew install <formula>`.
+Or `brew tap foenix-dev/cask` and then `brew install --cask <formula>`.
 
 ## Documentation
 
