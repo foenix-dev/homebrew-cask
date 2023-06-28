@@ -1,6 +1,6 @@
 cask "calypsi-6502" do
-  version "3.6.12"
-  sha256 "4e14d67f79318d5955440ef5b998cf2fe21934ba7340811855ee0d088dd1b8ec"
+  version "4.4"
+  sha256 "04cd8ef66a5736a7aa6e6d0e71b37cfa75a1eefca608a5e5de2dd4995b791d35"
 
   url "https://github.com/hth313/Calypsi-tool-chains/releases/download/#{version}/calypsi-6502-#{version}.pkg"
   desc "Calypsi is a C and assembly language cross compiler tool chains for MOS 6502."
